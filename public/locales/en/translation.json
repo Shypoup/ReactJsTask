@@ -1,0 +1,10 @@
+{
+    "All" : "All",
+    "Under Review" : "Under Review",
+    "Initial Acceptable":"Initial Acceptable",
+    "Conditional Acceptable": "Conditional Acceptable",
+    "Rejected" :"Rejected",
+    "Name": "Name",
+    "Status":"Status",
+    "Major" : "Major"
+}

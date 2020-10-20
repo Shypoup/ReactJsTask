@@ -1,0 +1,31 @@
+[
+    
+{
+    "id": 1,
+    "name" : "Hesham Gamal ALi",
+    "status" : "Under Review",
+    "major" : "Computer science"
+},
+
+{
+    "id": 2,
+    "name" : "Mohamed ALi",
+    "status" : "Initial Acceptance",
+    "major" : "Computer science"
+},
+
+{
+    "id":3 ,
+    "name" : "Ibrahim Sayed ALi",
+    "status" : "Conditional Acceptance",
+    "major" : "Computer science"
+},
+
+{
+    "id":4 ,
+    "name" : "Ali Ahmed",
+    "status" : "Rejected",
+    "major" : "Computer science"
+}
+
+]
